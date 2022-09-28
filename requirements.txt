@@ -1,0 +1,12 @@
+keras==2.10.0
+matplotlib==3.6.0
+moviepy==1.0.3
+numpy==1.23.2
+opencv_python==4.6.0.66
+pafy==0.5.5
+preprocess==2.0.0
+scikit_learn==1.1.2
+streamlit==1.13.0
+tensorflow==2.10.0
+tensorflow_macos==2.10.0
+train==0.0.5
