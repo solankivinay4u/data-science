@@ -8,5 +8,4 @@ preprocess==2.0.0
 scikit_learn==1.1.2
 streamlit==1.13.0
 tensorflow==2.10.0
-tensorflow_macos==2.10.0
 train==0.0.5
