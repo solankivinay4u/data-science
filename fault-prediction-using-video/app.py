@@ -33,7 +33,7 @@ st.header("Fault prediction using video evidence")
 def load_lrcn_model():
     # model = create_LRCN_model()
     # model.load_weights('/Users/vsolanki/workspace/Webtool/fault-prediction-using-video/model/LRCN_model___Date_Time_2022_09_14__17_23_36___Loss_0.8800032734870911___Accuracy_0.6571428775787354.h5')
-    model = load_model('/fault-prediction-using-video/model/LRCN_model___Date_Time_2022_09_14__17_23_36___Loss_0.8800032734870911___Accuracy_0.6571428775787354.h5')
+    model = load_model('model/LRCN_model___Date_Time_2022_09_14__17_23_36___Loss_0.8800032734870911___Accuracy_0.6571428775787354.h5')
     return model
 
 def predict(file_path):
